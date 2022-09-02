@@ -1,1 +1,2 @@
-peace
+#!/bin/bash
+touch hello
